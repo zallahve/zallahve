@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zallahve
-- 👀 I’m interested in Security, AI&ML, and Symbolic Computation
-- 🌱 I’m currently learning Artificial Intelligence and Data Science
-- 💞️ I’m looking to collaborate on any of the above listed topics
+- 👋 Hello, I'm Zia, University of Waterloo graduate.
+- 👀 I’m interested in Mathematical Optimization, Symbolic Computation, Computer Algebra and Cyber Security.
+- 🌱 I’m currently exploring the field of Data Science.
+- 💞️ I’m looking to collaborate on any Data Science project which has to do with Mathematical Optimization.
 - 📫 How to reach me zallahve@uwaterloo.ca
 
 <!---
